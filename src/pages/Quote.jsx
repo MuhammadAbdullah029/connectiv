@@ -27,12 +27,7 @@ const Quote = () => {
   const totalSteps = 4;
 
   const onSubmit = (data) => {
-    // .sendForm(
-    //   'service_o94t3mc',
-    //   'template_nncr0hh',
-    //   formRef.current,
-    //   'yBH9UcZpErfjd9fdI'
-    // )
+    
     if (Array.isArray(data.services)) {
       data.services = data.services.join(", ");
     }
