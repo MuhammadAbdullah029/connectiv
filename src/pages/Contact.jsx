@@ -379,7 +379,7 @@ const Contact = () => {
       </section>
 
       {/* Map Section */}
-      <section className="h-96 bg-gray-200 flex items-center justify-center">
+      <section className="h-96 flex items-center justify-center">
         <div className="text-center">
           <MapPin className="text-[#146aff] mx-auto mb-4" size={48} />
           <h3 className="text-xl font-semibold text-gray-900 mb-2">

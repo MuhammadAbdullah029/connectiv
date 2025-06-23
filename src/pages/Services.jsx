@@ -132,7 +132,7 @@ const Services = () => {
                         Let's discuss how {service.title.toLowerCase()} can help
                         grow your business.
                       </p>
-                      <Link to="/quote" className="btn-primary w-full">
+                      <Link to="/quote" className="btn-primary">
                         Get Free Quote
                         <ArrowRight size={20} className="ml-2 inline" />
                       </Link>

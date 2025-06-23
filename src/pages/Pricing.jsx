@@ -92,7 +92,7 @@ const Pricing = () => {
       </section>
 
       {/* Pricing Section */}
-      <section className="gradient-bg section-padding">
+      <section className="section-padding">
         <div className="container-custom">
           <motion.div
             initial={{ y: 20, opacity: 0 }}
@@ -171,7 +171,7 @@ const Pricing = () => {
       </section>
 
       {/* Process Section */}
-      <section className="section-padding">
+      <section className="gradient-bg section-padding">
         <div className="container-custom">
           <motion.div
             initial={{ y: 20, opacity: 0 }}

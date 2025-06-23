@@ -55,21 +55,21 @@ export const stats = [
 
 export const testimonials = [
     {
-      name: 'Sarah Johnson',
-      company: 'TechStart Inc.',
-      text: 'Konnective transformed our digital presence completely. Our leads increased by 300% in just 3 months!',
+      name: 'Hussan Kazmi',
+      company: 'BooksNPayroll.',
+      text: 'Working with Connectiv has transformed how we manage our digital presence. Their social media strategies boosted our client engagement by over 40% within just three months. The team is professional, creative, and truly understands our business needs. Highly recommended for any company looking to grow online!',
       rating: 5
     },
     {
-      name: 'Mike Chen',
-      company: 'Local Restaurant',
-      text: 'Their social media strategy helped us reach customers we never thought possible. Highly recommended!',
+      name: 'Murtaza',
+      company: 'Miniones',
+      text: 'Connectiv’s team provided outstanding support in revamping our social media channels. Their marketing insights helped us increase our follower base by 50%, driving more traffic and conversions. Their dedication and responsiveness set them apart in the digital space.',
       rating: 5
     },
     {
-      name: 'Emily Davis',
-      company: 'E-commerce Store',
-      text: 'The website they built for us is not only beautiful but also converts visitors into customers.',
+      name: 'Emma Johnson',
+      company: 'Marketing Director, BrightWave Solutions (USA)',
+      text: 'Partnering with Connectiv was a fantastic decision. Their expertise in digital strategy helped us double our lead generation within six months. The team’s clear communication and strategic approach made the entire process smooth and successful.',
       rating: 5
     }
   ];
@@ -187,7 +187,7 @@ export const values = [
   ]
 
 export const milestones = [
-    { year: '2021', event: 'Konnective Founded', description: 'Started with a vision to simplify digital marketing for businesses' },
+    { year: '2021', event: 'Connectiv Founded', description: 'Started with a vision to simplify digital marketing for businesses' },
     { year: '2022', event: '100+ Clients', description: 'Reached our first major milestone of serving 100 happy clients' },
     { year: '2023', event: 'Team Expansion', description: 'Grew our team to include specialists in all digital marketing areas' },
     { year: '2024', event: '100+ Projects', description: 'Successfully completed over 100 digital marketing projects' },
