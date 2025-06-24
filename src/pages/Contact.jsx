@@ -47,7 +47,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      details: "+1 (555) 123-4567",
+      details: "+92 341 4129771",
       description: "Mon-Fri from 8am to 6pm EST",
     },
     {
@@ -380,7 +380,7 @@ const Contact = () => {
           <h3 className="text-xl font-semibold text-gray-900 mb-2">
             Visit Our Office
           </h3>
-          <p className="text-gray-600">
+          <p className="text-gray-600 w-[91%]">
             <strong>Pakistan office:</strong> 352M, Model Town Lahore, Pakistan , <br/>
             <strong>US Location:</strong> 1301 W.Forrest Grove Rd Building #3 Vineland, NJ 08360
           </p>
