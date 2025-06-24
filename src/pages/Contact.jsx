@@ -56,12 +56,7 @@ const Contact = () => {
       details: "teams@connectiv.us",
       description: "We respond within 24 hours",
     },
-    {
-      icon: MapPin,
-      title: "Office",
-      details: "123 Business Ave, Suite 100",
-      description: "New York, NY 10001",
-    },
+    
     {
       icon: Clock,
       title: "Business Hours",
@@ -386,9 +381,8 @@ const Contact = () => {
             Visit Our Office
           </h3>
           <p className="text-gray-600">
-            123 Business Ave, Suite 100
-            <br />
-            New York, XYZ
+            <strong>Pakistan office:</strong> 352M, Model Town Lahore, Pakistan , <br/>
+            <strong>US Location:</strong> 1301 W.Forrest Grove Rd Building #3 Vineland, NJ 08360
           </p>
         </div>
       </section>
